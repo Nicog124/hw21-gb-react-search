@@ -6,6 +6,7 @@ In this activity, we create a new React-based Google Books Search app. This app 
 # Screen Shots
 sc1 - 
 sc2 - 
+sc3 - 
 # Links
 Github - https://github.com/Nicog124/hw21-gb-react-search
 Heroku - https://hw-21-ng.herokuapp.com/
