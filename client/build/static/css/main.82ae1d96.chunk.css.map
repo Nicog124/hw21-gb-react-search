@@ -1,1 +1,14 @@
-{"version":3,"sources":["C:/Users/Nico/gt/homework/hw21/hw21-gb-react-search/client/src/C:/Users/Nico/gt/homework/hw21/hw21-gb-react-search/client/src/index.css","main.82ae1d96.chunk.css"],"names":[],"mappings":"AAAA,KACE,QAAA,CACA,SAAA,CACA,+CCCF","file":"main.82ae1d96.chunk.css","sourcesContent":["body {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: Georgia, 'Times New Roman', Times, serif;\r\n}\r\n","body {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: Georgia, 'Times New Roman', Times, serif;\r\n}\r\n\n"]}
+{
+  "version": 3,
+  "sources": [
+    "C:/Users/Nico/gt/homework/hw21/hw21-gb-react-search/client/src/C:/Users/Nico/gt/homework/hw21/hw21-gb-react-search/client/src/index.css",
+    "main.82ae1d96.chunk.css"
+  ],
+  "names": [],
+  "mappings": "AAAA,KACE,QAAA,CACA,SAAA,CACA,+CCCF",
+  "file": "main.82ae1d96.chunk.css",
+  "sourcesContent": [
+    "body {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: Georgia, 'Times New Roman', Times, serif;\r\n}\r\n",
+    "body {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-family: Georgia, 'Times New Roman', Times, serif;\r\n}\r\n\n"
+  ]
+}
